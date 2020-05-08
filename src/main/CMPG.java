@@ -12,6 +12,7 @@ public class CMPG {
     private JButton FACTORIELButton;
     private JButton QUITTERButton;
     private JButton TRACEButton;
+    public JPanel panelMain;
 
     public CMPG() {
 
